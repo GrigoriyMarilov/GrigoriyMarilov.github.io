@@ -1,0 +1,1 @@
+import{d as t,_ as s,o,i as n,j as r}from"./index-B0hQSJLk.js";const c=t({setup(){return{}}}),a={class:"h-full flex flex-col items-center justify-center"};function l(e,f,i,p,_,d){return o(),n("div",a,[r(e.$slots,"default")])}const m=s(c,[["render",l]]);export{m as C};
